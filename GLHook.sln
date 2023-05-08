@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hookTest", "hookTest\hookTest.vcxproj", "{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug Static|x64 = Debug Static|x64
@@ -56,6 +58,22 @@ Global
 		{F142A341-5EE0-442D-A15F-98AE9B48DBAE}.Release|x64.Build.0 = Release|x64
 		{F142A341-5EE0-442D-A15F-98AE9B48DBAE}.Release|x86.ActiveCfg = Release|Win32
 		{F142A341-5EE0-442D-A15F-98AE9B48DBAE}.Release|x86.Build.0 = Release|Win32
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Debug Static|x64.ActiveCfg = Debug|x64
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Debug Static|x64.Build.0 = Debug|x64
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Debug Static|x86.ActiveCfg = Debug|Win32
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Debug Static|x86.Build.0 = Debug|Win32
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Debug|x64.ActiveCfg = Debug|x64
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Debug|x64.Build.0 = Debug|x64
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Debug|x86.Build.0 = Debug|Win32
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Release Static|x64.ActiveCfg = Release|x64
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Release Static|x64.Build.0 = Release|x64
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Release Static|x86.ActiveCfg = Release|Win32
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Release Static|x86.Build.0 = Release|Win32
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Release|x64.ActiveCfg = Release|x64
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Release|x64.Build.0 = Release|x64
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Release|x86.ActiveCfg = Release|Win32
+		{B5AB5B93-EF6F-4ABE-9734-1C27394D18EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
